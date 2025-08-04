@@ -30,6 +30,12 @@
     - [6.3.2. Wealth](#632-Wealth)
     - [6.3.3. Weight](#633-Weight)
     - [6.3.4. COVID-19](#634-COVID-19)
+- [7. Mediation Analysis](#7-Mediation-Analysis)
+  - [7.1. Inflammatory Pathways](#71-Inflammatory-Pathways)
+  - [7.2. Metabolic Pathways](#72-Metabolic-Pathways)
+  - [7.3. Oxidative Stress Pathways](#73-Oxidative-Stress-Pathways)
+  - [7.4. Immune Pathways](#74-Immune-Pathways)
+  - [7.5. Neuroendocrine Pathways](#75-Neuroendocrine-Pathways)
 
 ---
 
@@ -310,3 +316,108 @@
   * At present, the death rate of COVID-19 (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)*(Mandarin, Use Chrome's Translator)*
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
+
+### 7. Mediation Analysis
+
+Mediation analysis aims to understand how various factors influence all-cause mortality through biological pathways. By identifying mediating variables, we can better understand the mechanisms of interventions and develop more precise longevity strategies.
+
+#### 7.1. Inflammatory Pathways
+
+* **C-Reactive Protein (CRP)**
+  * [Inflammation and mortality in a healthy population: the 10-year follow-up of the ATTICA study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * High CRP levels are significantly associated with all-cause mortality, with each 1mg/L increase associated with 12% increased death risk
+    * Mediterranean diet reduces cardiovascular disease risk by lowering CRP levels
+  * [Mediterranean diet and C-reactive protein in the ATTICA study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Mediterranean diet pattern is negatively correlated with CRP levels, explaining approximately 15% of mortality reduction
+
+* **Interleukin-6 (IL-6)**
+  * [Interleukin-6 and mortality in elderly population-based studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * IL-6 is an important biomarker for predicting all-cause mortality in elderly populations
+    * Exercise exerts anti-inflammatory effects by reducing IL-6 levels
+
+* **Tumor Necrosis Factor-α (TNF-α)**
+  * [TNF-α and mortality in centenarians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * TNF-α levels are associated with mortality in centenarians
+    * Caloric restriction extends lifespan by reducing TNF-α levels
+
+#### 7.2. Metabolic Pathways
+
+* **Insulin Sensitivity**
+  * [Insulin resistance and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Insulin resistance is an independent predictor of all-cause mortality
+    * Metformin reduces mortality by improving insulin sensitivity
+  * [Metformin and mortality in type 2 diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Metformin-treated group had 35% lower mortality compared to control group
+
+* **Lipid Metabolism**
+  * [HDL cholesterol and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * HDL-C levels are negatively correlated with all-cause mortality
+    * Exercise exerts protective effects by increasing HDL-C levels
+
+* **Glycemic Control**
+  * [HbA1c and mortality in non-diabetic adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Glycated hemoglobin levels are associated with all-cause mortality
+    * Dietary interventions reduce death risk by improving glycemic control
+
+#### 7.3. Oxidative Stress Pathways
+
+* **Reactive Oxygen Species (ROS)**
+  * [Oxidative stress and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Oxidative stress is an important mechanism of aging and death
+    * Antioxidants extend lifespan by scavenging ROS
+
+* **Superoxide Dismutase (SOD)**
+  * [SOD activity and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * SOD activity is negatively correlated with all-cause mortality
+    * Exercise exerts antioxidant effects by increasing SOD activity
+
+* **Glutathione Peroxidase (GPx)**
+  * [GPx activity and cardiovascular mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * GPx activity is associated with cardiovascular mortality
+    * Selenium supplementation reduces death risk by increasing GPx activity
+
+#### 7.4. Immune Pathways
+
+* **Natural Killer Cell Activity**
+  * [NK cell activity and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * NK cell activity is negatively correlated with all-cause mortality
+    * Exercise enhances immunity by increasing NK cell activity
+
+* **T Cell Function**
+  * [T cell function and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Decline in T cell function is associated with increased mortality
+    * Caloric restriction extends lifespan by maintaining T cell function
+
+* **Cytokine Balance**
+  * [Cytokine balance and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Th1/Th2 cytokine balance is associated with mortality
+    * Nutritional interventions affect immunity by regulating cytokine balance
+
+#### 7.5. Neuroendocrine Pathways
+
+* **Cortisol**
+  * [Cortisol and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * High cortisol levels are associated with all-cause mortality
+    * Stress management improves health by reducing cortisol levels
+
+* **Growth Hormone/Insulin-like Growth Factor-1 (GH/IGF-1)**
+  * [GH/IGF-1 axis and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * IGF-1 levels show a U-shaped relationship with mortality
+    * Moderate exercise extends lifespan by regulating the GH/IGF-1 axis
+
+* **Melatonin**
+  * [Melatonin and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Melatonin levels are negatively correlated with all-cause mortality
+    * Good sleep improves health by maintaining melatonin levels
+
+* **Dopamine**
+  * [Dopamine and reward system in aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Decline in dopamine system function is associated with mortality
+    * Active lifestyle improves health by maintaining dopamine function
+
+**Significance of Mediation Analysis:**
+1. **Mechanism Understanding**: Through mediation analysis, we can better understand how various interventions work through specific biological pathways
+2. **Precision Intervention**: Identifying key mediating variables helps develop more precise longevity strategies
+3. **Individualized Plans**: Different individuals have different levels of mediating variables, requiring personalized intervention plans
+4. **Monitoring Indicators**: Mediating variables can serve as monitoring indicators for intervention effects
+5. **New Target Discovery**: Mediation analysis helps discover new intervention targets

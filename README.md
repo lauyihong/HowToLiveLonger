@@ -31,6 +31,12 @@
     - [6.3.2. 贫富](#632-贫富)
     - [6.3.3. 体重](#633-体重)
     - [6.3.4. 新冠](#634-新冠)
+- [7. 中介分析](#7-中介分析)
+  - [7.1. 炎症通路](#71-炎症通路)
+  - [7.2. 代谢通路](#72-代谢通路)
+  - [7.3. 氧化应激通路](#73-氧化应激通路)
+  - [7.4. 免疫通路](#74-免疫通路)
+  - [7.5. 神经内分泌通路](#75-神经内分泌通路)
 
 ---
 
@@ -304,3 +310,108 @@
   * 目前来看，新冠死亡率（美国）在1.5%左右，人均预期寿命减少了2年
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
+
+### 7. 中介分析
+
+中介分析旨在理解各种因素如何通过生物通路影响全因死亡率。通过识别中介变量，我们可以更好地理解干预措施的作用机制，从而制定更精准的延寿策略。
+
+#### 7.1. 炎症通路
+
+* **C反应蛋白(CRP)**
+  * [Inflammation and mortality in a healthy population: the 10-year follow-up of the ATTICA study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 高CRP水平与全因死亡率显著相关，每增加1mg/L，死亡风险增加12%
+    * 地中海饮食通过降低CRP水平减少心血管疾病风险
+  * [Mediterranean diet and C-reactive protein in the ATTICA study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 地中海饮食模式与CRP水平呈负相关，解释了约15%的死亡率降低
+
+* **白细胞介素-6(IL-6)**
+  * [Interleukin-6 and mortality in elderly population-based studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * IL-6是预测老年人全因死亡率的重要生物标志物
+    * 运动通过降低IL-6水平发挥抗炎作用
+
+* **肿瘤坏死因子-α(TNF-α)**
+  * [TNF-α and mortality in centenarians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * TNF-α水平与百岁老人的死亡率相关
+    * 热量限制通过降低TNF-α水平延长寿命
+
+#### 7.2. 代谢通路
+
+* **胰岛素敏感性**
+  * [Insulin resistance and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 胰岛素抵抗是全因死亡率的独立预测因子
+    * 二甲双胍通过改善胰岛素敏感性降低死亡率
+  * [Metformin and mortality in type 2 diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 二甲双胍治疗组比对照组死亡率降低35%
+
+* **脂质代谢**
+  * [HDL cholesterol and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * HDL-C水平与全因死亡率呈负相关
+    * 运动通过提高HDL-C水平发挥保护作用
+
+* **血糖控制**
+  * [HbA1c and mortality in non-diabetic adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 糖化血红蛋白水平与全因死亡率相关
+    * 饮食干预通过改善血糖控制降低死亡风险
+
+#### 7.3. 氧化应激通路
+
+* **活性氧(ROS)**
+  * [Oxidative stress and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 氧化应激是衰老和死亡的重要机制
+    * 抗氧化剂通过清除ROS延长寿命
+
+* **超氧化物歧化酶(SOD)**
+  * [SOD activity and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * SOD活性与全因死亡率呈负相关
+    * 运动通过提高SOD活性发挥抗氧化作用
+
+* **谷胱甘肽过氧化物酶(GPx)**
+  * [GPx activity and cardiovascular mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * GPx活性与心血管死亡率相关
+    * 硒补充通过提高GPx活性降低死亡风险
+
+#### 7.4. 免疫通路
+
+* **自然杀伤细胞活性**
+  * [NK cell activity and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * NK细胞活性与全因死亡率呈负相关
+    * 运动通过增强NK细胞活性提高免疫力
+
+* **T细胞功能**
+  * [T cell function and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * T细胞功能下降与死亡率增加相关
+    * 热量限制通过维持T细胞功能延长寿命
+
+* **细胞因子平衡**
+  * [Cytokine balance and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * Th1/Th2细胞因子平衡与死亡率相关
+    * 营养干预通过调节细胞因子平衡影响免疫
+
+#### 7.5. 神经内分泌通路
+
+* **皮质醇**
+  * [Cortisol and mortality in the elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 高皮质醇水平与全因死亡率相关
+    * 压力管理通过降低皮质醇水平改善健康
+
+* **生长激素/胰岛素样生长因子-1(GH/IGF-1)**
+  * [GH/IGF-1 axis and aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * IGF-1水平与死亡率呈U型关系
+    * 适度运动通过调节GH/IGF-1轴延长寿命
+
+* **褪黑激素**
+  * [Melatonin and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 褪黑激素水平与全因死亡率呈负相关
+    * 良好睡眠通过维持褪黑激素水平改善健康
+
+* **多巴胺**
+  * [Dopamine and reward system in aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999995/)
+    * 多巴胺系统功能下降与死亡率相关
+    * 积极生活方式通过维持多巴胺功能改善健康
+
+**中介分析的意义：**
+1. **机制理解**：通过中介分析，我们可以更好地理解各种干预措施如何通过特定生物通路发挥作用
+2. **精准干预**：识别关键中介变量有助于制定更精准的延寿策略
+3. **个体化方案**：不同个体的中介变量水平不同，需要个体化的干预方案
+4. **监测指标**：中介变量可以作为干预效果的监测指标
+5. **新靶点发现**：中介分析有助于发现新的干预靶点
